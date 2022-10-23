@@ -1,0 +1,16 @@
+{
+  "name": "exec1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon mqtt-sub.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "nodemon": "^2.0.13",
+    "mqtt": "^4.2.8"
+  },
+  "description": ""
+}
